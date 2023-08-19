@@ -1,5 +1,8 @@
 # LangStream CLI
 
+Homebrew formulae for [LangStream CLI](https://github.com/LangStream/langstream).
+Refer to the [CLI installation guide](https://github.com/LangStream/langstream#cli) for more details.
+
 
 ## Installation
 
@@ -13,7 +16,10 @@ brew install langstream
 ```
 langstream -h
 ```
-## Autocompletions
+## Enable auto-completion
+
+Open a terminal and copy/paste the following script. This is needed only once.
+
 ### ZSH
 
 ```
