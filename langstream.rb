@@ -1,8 +1,8 @@
 class Langstream < Formula
     desc "The LangStream project combines the intelligence of large language models with the agility of streaming processing, to create powerful processing applications."
     homepage "https://docs.langstream.ai/"
-    url "https://github.com/LangStream/langstream/releases/download/v0.0.13/langstream-cli-0.0.13.zip"
-    sha256 "03f0cf48adb7082f2bf66efa6dcd063ba8d2ca577afc3c465fbd22626444e83d"
+    url "https://github.com/LangStream/langstream/releases/download/v0.0.15/langstream-cli-0.0.15.zip"
+    sha256 "80040e2217c15c8bce32074ac147979fc9656b68548ee453166cb746e793161c"
     head "https://github.com/LangStream/langstream.git"
   
     def install
