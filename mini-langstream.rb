@@ -12,6 +12,6 @@ class MiniLangstream < Formula
 
     def install
         libexec.install Dir["*"]
-        bin.install_symlink libexec/"bin/mini-langstream"
+        bin.install_symlink libexec/"mini-langstream"
     end  
   end
