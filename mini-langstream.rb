@@ -1,4 +1,4 @@
-class Langstream < Formula
+class MiniLangstream < Formula
     desc "mini-langstream is a local Langstream cluster for development and testing, running on Minikube"
     homepage "https://docs.langstream.ai/"
     url "https://github.com/nicoloboschi/pulsar-examples/releases/download/generic/mini-langstream-0.0.1.zip"
