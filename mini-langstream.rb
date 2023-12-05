@@ -1,8 +1,8 @@
 class MiniLangstream < Formula
     desc "mini-langstream is a local LangStream cluster for development and testing, running on Minikube"
     homepage "https://docs.langstream.ai/"
-    url "https://github.com/LangStream/langstream/releases/download/v0.5.1/mini-langstream-0.5.1.zip"
-    sha256 "9b074d602772fc18f4dd4d338c6c7b3b81a0e9ddca352f0c551b20a26fec7afc"
+    url "https://github.com/LangStream/langstream/releases/download/v0.5.2/mini-langstream-0.5.2.zip"
+    sha256 "d6f70658a2061e356e66aa1ff7b6754e4a12bede421bd8139365dbcdd2df801a"
     head "https://github.com/LangStream/langstream.git"
   
     depends_on "minikube"
